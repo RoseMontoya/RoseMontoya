@@ -34,7 +34,7 @@
  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="28" alt="markdown logo"  />
  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="28" alt="npm logo"  />
 
-### Todoist Stats
+# Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
