@@ -34,14 +34,18 @@
  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="28" alt="markdown logo"  />
  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="28" alt="npm logo"  />
 
-# Todoist Stats
-
+### Todoist Stats
 <!-- TODO-IST:START -->
 🏆  200 Karma Points           
 🌸  Completed 1 tasks today           
 ✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+### Waka
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 <!--
 **RoseMontoya/RoseMontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
