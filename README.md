@@ -52,6 +52,9 @@ No activity tracked
 
 ### Github Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={RoseMontoya}&theme={transparent})
+
+
 ![Overview Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/overview.svg)
 ![Language Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/languages.svg)
  
