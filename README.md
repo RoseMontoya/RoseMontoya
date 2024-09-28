@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=3000&color=F7B2A0&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=%F0%9F%8C%B9+Heyo%2C+I'm+Rose+%F0%9F%8C%B9;A+Full-Stack+Software+Engineer)](https://git.io/typing-svg)
 - 📷 I’m currently working on refactoring and improving image's on the product's form for Artisan Alley.
 - 💪🏻 I'm a multifaceted person who pride themselves in exellence and hard work.
 - 📚 I have a strong educational background, including participating in the international bacculariate program during high school, attending a prestigious acting school, a data science and software engineering bootcamps.
@@ -12,7 +12,6 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,7 +22,6 @@
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Alembic](https://img.shields.io/badge/Alembic-%23F79A32.svg?style=for-the-badge&logo=alembic&logoColor=white)
-
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
@@ -51,6 +49,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+### Github Stats
+
+![Overview Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/overview.svg)
+![Language Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/languages.svg)
  
 <!--
 **RoseMontoya/RoseMontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
