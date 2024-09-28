@@ -52,13 +52,16 @@ No activity tracked
 
 ### Github Stats
 
-[![Rose's GitHub stats](https://github-stats-git-main-rose-montoyas-projects.vercel.app/api?username=RoseMontoya)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Overview Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/overview.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoseMontoya&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoseMontoya&theme=transparent)
 ![Language Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/languages.svg)
  
 <!--
+![Overview Stats](https://github.com/RoseMontoya/github-stats-transparent/blob/output/generated/overview.svg)
+[![Rose's GitHub stats](https://github-stats-gold-sigma.vercel.app/api?username=RoseMontoya&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoseMontoya&theme=transparent&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoseMontoya&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoseMontoya&theme=transparent)
 **RoseMontoya/RoseMontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - I'm currently learning software engineering at App Academy.
 - I chose to become a software engineering, because it brings all of my wants together: logical problem solving, creating and building, being able to share that creation and have user interaction. 
