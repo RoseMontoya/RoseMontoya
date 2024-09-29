@@ -39,10 +39,10 @@
 
 ### Todoist Stats
 <!-- TODO-IST:START -->
-🏆  397 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 7 tasks so far           
-⏳  Longest streak is 0 days
+🏆  447 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 8 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 ### Waka
