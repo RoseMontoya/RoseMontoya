@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=3000&color=F7B2A0&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=%F0%9F%8C%B9+Heyo%2C+I'm+Rose+%F0%9F%8C%B9;A+Full-Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ### A little bit about me
-- 📷  I’m currently working on refactoring and improving image's on the product's form for Artisan Alley.
+- 📷  I’m currently working on creating a new portfolio site.
 - 💪🏻  I'm a multifaceted person who pride themselves in exellence and hard work.
 - 📚  I have a strong educational background, including participating in the international bacculariate program during high school, attending a prestigious acting school, a data science and software engineering bootcamps.
 - 🪕🎶  Fun fact: Learning to play Everything in You on the Ukulele
